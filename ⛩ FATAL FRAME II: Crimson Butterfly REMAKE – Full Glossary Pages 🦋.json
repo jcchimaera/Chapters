@@ -5,14 +5,6 @@
   "author": "Koei Tecmo",
   "cover": "https://www.koeitecmoeurope.com/zero/crimson-re/assets/img/en/product/product_pk-img1.jpg",
   "chapters": {
-    "06": {
-      "title": "Soundtrack",
-      "volume": "",
-      "last_updated": "1773295200",
-      "groups": {
-        "Reddit Rippers — jcchimaera": ""
-      }
-    },
     "01": {
       "title": "Artwork",
       "volume": "",
@@ -22,27 +14,11 @@
       }
     },
     "02": {
-      "title": "Characters",
+      "title": "Characters (Part 1)",
       "volume": "",
       "last_updated": "1773295200",
       "groups": {
         "Reddit Rippers — jcchimaera": "/proxy/api/imgchest/chapter/ne7b3aepky5"
-      }
-    },
-    "03": {
-      "title": "Ghosts and Other",
-      "volume": "",
-      "last_updated": "1773295200",
-      "groups": {
-        "Reddit Rippers — jcchimaera": ""
-      }
-    },
-    "04": {
-      "title": "World",
-      "volume": "",
-      "last_updated": "1773295200",
-      "groups": {
-        "Reddit Rippers — jcchimaera": ""
       }
     },
     "05": {
@@ -51,6 +27,22 @@
       "last_updated": "1773295200",
       "groups": {
         "Reddit Rippers — jcchimaera": "/proxy/api/imgchest/chapter/ljyq6w22x42"
+      }
+    },
+    "03": {
+      "title": "Characters (Part 2)",
+      "volume": "",
+      "last_updated": "1773295200",
+      "groups": {
+        "Reddit Rippers — jcchimaera": "/proxy/api/imgchest/chapter/a8469e9o24x"
+      }
+    },
+    "04": {
+      "title": "Characters (Part 3)",
+      "volume": "",
+      "last_updated": "1773252000",
+      "groups": {
+        "Reddit Rippers — jcchimaera": ""
       }
     }
   }
