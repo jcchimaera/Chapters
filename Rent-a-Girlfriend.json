@@ -140,6 +140,14 @@
       "groups": {
         "K Manga - jcchimaera": "/proxy/api/imgchest/chapter/qb4zq9oed4j"
       }
+    },
+    "999": {
+      "title": "999",
+      "volume": "",
+      "last_updated": "1778598000",
+      "groups": {
+        "K Manga - jcchimaera": "/proxy/api/imgchest/chapter/ne7bobxajy5"
+      }
     }
   }
 }
