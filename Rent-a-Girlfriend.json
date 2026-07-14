@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1749567600",
       "groups": {
-        "K Manga - Lacus the Pink Haze": "/proxy/api/imgchest/chapter/qe4g3w5bkyj"
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/qe4g3w5bkyj"
       }
     },
     "396": {
@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1759849200",
       "groups": {
-        "K Manga - Lacus the Pink Haze": "/proxy/api/imgchest/chapter/bp45r3njx75"
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/bp45r3njx75"
       }
     },
     "397": {
@@ -26,7 +26,7 @@
       "volume": "",
       "last_updated": "1760454000",
       "groups": {
-        "K Manga - Lacus the Pink Haze": "/proxy/api/imgchest/chapter/wl7lakndoyx"
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/wl7lakndoyx"
       }
     },
     "398": {
@@ -34,7 +34,7 @@
       "volume": "",
       "last_updated": "1761022800",
       "groups": {
-        "K Manga - Lacus the Pink Haze": "/proxy/api/imgchest/chapter/o24a28lwe7l"
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/o24a28lwe7l"
       }
     },
     "399": {
@@ -42,7 +42,7 @@
       "volume": "",
       "last_updated": "1761663600",
       "groups": {
-        "K Manga - Lacus the Pink Haze": "/proxy/api/imgchest/chapter/qb4z5pxvd4j"
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/qb4z5pxvd4j"
       }
     },
     "400": {
@@ -224,9 +224,17 @@
     "432": {
       "title": "THE BOYFRIEND AND GROWTH 2",
       "volume": "",
-      "last_updated": "1784041298",
+      "last_updated": "1784041200",
       "groups": {
         "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/wl7lp6d5pyx"
+      }
+    },
+    "433": {
+      "title": "TBD",
+      "volume": "",
+      "last_updated": "1784041200",
+      "groups": {
+        "K Manga - u/jcchimaera": ""
       }
     },
     "000": {
@@ -234,7 +242,7 @@
       "volume": "",
       "last_updated": "1499439600",
       "groups": {
-        "K Manga - Lacus the Pink Haze": "/proxy/api/imgchest/chapter/qb4z28jw34j"
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/qb4z28jw34j"
       }
     }
   }
