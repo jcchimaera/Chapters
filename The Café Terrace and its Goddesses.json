@@ -6,11 +6,35 @@
   "cover": "https://cdn.kmanga.kodansha.com/static/titles/10009/title_grid_wide_20230411110130155d770ced3a2c3bc8e69a0f9f0ccd13.png",
   "chapters": {
     "1": {
-      "title": "Goddess Café Terrace Bonus Manga Pages Part 1",
+      "title": "Bonus Manga Pages Part 1 (From Vol. 1 - 5)",
       "volume": "",
       "last_updated": "1788199200",
       "groups": {
-        "": ""
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/m9yxop6kpyq"
+      }
+    },
+    "2": {
+      "title": "Bonus Manga Pages Part 2 (From Vol. 6 - 10)",
+      "volume": "",
+      "last_updated": "1788199200",
+      "groups": {
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/pg73vae8vyr"
+      }
+    },
+    "3": {
+      "title": "Bonus Manga Pages Part 3 (From Vol. 11 - 15)",
+      "volume": "",
+      "last_updated": "1788199200",
+      "groups": {
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/6eyroke3eyp"
+      }
+    },
+    "4": {
+      "title": "Bonus Manga Pages Part 4 (From Vol. 16 - 20)",
+      "volume": "",
+      "last_updated": "1788199200",
+      "groups": {
+        "K Manga - u/jcchimaera": ""
       }
     }
   }
