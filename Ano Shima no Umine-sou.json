@@ -1,8 +1,17 @@
 {
   "title": "Ano Shima no Umine-sou",
   "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
-  "chapters": {}
+  "artist": "Kouji Seo",
+  "author": "Kouji Seo",
+  "cover": "https://cdn.kmanga.kodansha.com/static/titles/10676/title_grid_wide_20260108173054bad09a2a3322155d951acbf4f1397089.png",
+  "chapters": {
+    "1": {
+      "title": "Umine Inn",
+      "volume": "1",
+      "last_updated": "1768316400",
+      "groups": {
+        "Shonen Magz - u/jcchimaera": "/proxy/api/imgchest/chapter/924983k5vyn"
+      }
+    }
+  }
 }
