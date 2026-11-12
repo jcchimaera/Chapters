@@ -38,23 +38,31 @@
       }
     },
     "5": {
+      "title": "Special Story 1",
+      "volume": "",
+      "last_updated": "1765378800",
+      "groups": {
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/a846va5vw7x"
+      }
+    },
+    "6": {
+      "title": "Special Story 2",
+      "volume": "",
+      "last_updated": "1778684400",
+      "groups": {
+        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/n87ww6m6z7x"
+      }
+    },
+    "7": {
       "title": "Spesial Story 3",
       "volume": "",
-      "last_updated": "1791342000",
+      "last_updated": "1791385200",
       "groups": {
         "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/924966mb84n"
       }
     },
-    "6": {
-      "title": "Spesial Story 4 [RAW]",
-      "volume": "",
-      "last_updated": "1794409200",
-      "groups": {
-        "K Manga - u/jcchimaera": "/proxy/api/imgchest/chapter/9p4n5gb6m4n"
-      }
-    },
-    "7": {
-      "title": "Special Story 4 [ENGLISH]",
+    "8": {
+      "title": "Special Story 4",
       "volume": "",
       "last_updated": "1794409200",
       "groups": {
